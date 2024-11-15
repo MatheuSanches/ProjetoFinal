@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|c:\\users\\matheus\\desktop\\projetofinal\\frmcrudproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|solutionrelative:frmcrudproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\frmvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|solutionrelative:frmvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\frmvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|solutionrelative:frmvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\frmcrudcartaovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|solutionrelative:frmcrudcartaovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\frmcrudcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|solutionrelative:frmcrudcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\frmcrudusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|solutionrelative:frmcrudusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\frmcrudcartaovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|solutionrelative:frmcrudcartaovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\frmcrudusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|solutionrelative:frmcrudusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|solutionrelative:conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2744134-DB65-4E37-A9E2-C596026A413F}|ProjetoFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 132,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmCrudUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmCrudUsuario.cs",
+              "RelativeDocumentMoniker": "FrmCrudUsuario.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmCrudUsuario.cs [Design]",
+              "RelativeToolTip": "FrmCrudUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:57:34.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmCrudCartaoVenda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmCrudCartaoVenda.cs",
+              "RelativeDocumentMoniker": "FrmCrudCartaoVenda.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmCrudCartaoVenda.cs [Design]",
+              "RelativeToolTip": "FrmCrudCartaoVenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:47:00.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:43:29.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCrudCartaoVenda.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmCrudCartaoVenda.cs",
+              "RelativeDocumentMoniker": "FrmCrudCartaoVenda.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmCrudCartaoVenda.cs",
+              "RelativeToolTip": "FrmCrudCartaoVenda.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAACAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:42:11.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCrudProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmCrudProduto.cs",
+              "RelativeDocumentMoniker": "FrmCrudProduto.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmCrudProduto.cs",
+              "RelativeToolTip": "FrmCrudProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:16:08.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCrudCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmCrudCliente.cs",
+              "RelativeDocumentMoniker": "FrmCrudCliente.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmCrudCliente.cs",
+              "RelativeToolTip": "FrmCrudCliente.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:15:53.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmVenda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmVenda.cs",
+              "RelativeDocumentMoniker": "FrmVenda.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmVenda.cs [Design]",
+              "RelativeToolTip": "FrmVenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:57:52.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmVenda.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmVenda.cs",
+              "RelativeDocumentMoniker": "FrmVenda.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmVenda.cs",
+              "RelativeToolTip": "FrmVenda.cs",
+              "ViewState": "AgIAAEABAAAAAAAAAAAgwGMBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:02:05.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmPrincipal.cs [Design]",
+              "RelativeToolTip": "FrmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:58:33.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:09:01.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmCrudUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmCrudUsuario.cs",
+              "RelativeDocumentMoniker": "FrmCrudUsuario.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmCrudUsuario.cs",
+              "RelativeToolTip": "FrmCrudUsuario.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAA0wJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T23:35:37.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmPrincipal.cs",
+              "RelativeToolTip": "FrmPrincipal.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T23:08:42.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\FrmLogin.cs",
+              "RelativeToolTip": "FrmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:25:08.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\Conexao.cs",
+              "RelativeDocumentMoniker": "Conexao.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoFinal\\Conexao.cs",
+              "RelativeToolTip": "Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:13:29.853Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
